@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Protein",
+      "price": 59.99,
+      "image": "images/protein.webp",
+      "hoverText": "Protein iz surutke se smatra “kraljem” svih proteina za bodibilding jer ima najveću biološku vrednost. Protein iz surutke ima najbolji aminokiselinski profil i veću koncentraciju BCAA od bilo kog drugog proteinskog izvora. "
+    },
+    {
+      "id": 2,
+      "name": "Kreatin",
+      "price": 39.99,
+      "image": "images/kreatin.webp",
+      "hoverText": "Kreatin je široko poznat i korišćen dodatak. Njegova efikasnost je potvrđena brojnim naučnim studijama. Obezbeđuje bolji rast mišićnog tkiva, efektivnu regeneraciju i energiju za naporne treninge."
+    },
+    {
+      "id": 3,
+      "name": "PreWorkout",
+      "price": 49.99,
+      "image": "images/preworkout.webp",
+      "hoverText": "Korišćenje dodatka pre treninga pre treninga može pružiti nekoliko potencijalnih prednosti. Suplementi pre treninga koji sadrže sastojke poput beta-alanina mogu pomoći u smanjenju umora mišića tokom intenzivnog vežbanja."
+    },
+    {
+      "id": 4,
+      "name": "BCAA",
+      "price": 39.99,
+      "image": "images/bcaa.jpg",
+      "hoverText": "BCAA su amino kiseline razgranatog lanca, odnosno leucin, izoleucin i valin. To su esencijalne amino kiseline, što znači da telo ne može da ih proizvede, već ih je neophodno unositi putem hrane. "
+    },
+    {
+      "id": 5,
+      "name": "Kofein",
+      "price": 79.99,
+      "image": "images/kofein.jpg",
+      "hoverText": "Kofein je najrasprostranjeniji stimulans centralnog nervnog sistema na svetu. Njegov učinak se oseti vrlo brzo, oko pola sata nakon konzumiranja. Kofein dokazano povećava performanse."
+      
+    },
+    {
+      "id": 6,
+      "name": "Multivitamin",
+      "price": 89.99,
+      "image": "images/vitamin.jpg",
+      "hoverText": "Vitamini i minerali su esencijalne supstance koje su neophodne za pravilno odvijanje na hiljade metaboličkh i fiziološkh procesa koji omogućavaju funkcionisanje našeg organizma. Mnogobrojne su i značajne uloge koje vitamini i minerali imaju u organizmu: deluju kao hormoni,štite nas od slobodnih radikala..."
+    },
+    {
+      "id": 7,
+      "name": "Mass Gainer",
+      "price": 69.99,
+      "image": "images/mass.jpg",
+      "hoverText": "Mass Gainer je komleksan suplement za povećanje težine i mišićne mase koji pruža nutrijente neophodne za brz oporavak kao i prekopotrebne sirovine za izgladnele mišićne ćelije nakon napornog treninga."
+    },
+    {
+      "id": 8,
+      "name": "L-Citrulline",
+      "price": 59.99,
+      "image": "images/lc.webp",
+      "hoverText": "L-citrulin igra važnu ulogu u metabolizmu i regulaciji azotn-oksida (NO). L-citrulin se u telu pretvara u L-arginin, što dovodi do povećanja i L-arginina i azot-oksida. Povećana sinteza azot-oksida u organizmu podstiče širenje krvnih sudova što dovodi do bolje cirkulacije kiseonika i krvi po telu i omogućava isporuku više kiseonika i hranljivih materija u mišiće."
+    }
+  ]
